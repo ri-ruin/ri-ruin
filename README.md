@@ -6,7 +6,9 @@ I'm currently working on Financial aspects of application of Python.
 I'm currently learning Intermediate Java and Beginners Python.
 If anyone is up to collaborate on projects then contact me.
 
-How to reach me: ri.uni.9.kr@gmail.com
+How to reach me: 
+- Gmail: ri.uni.9.kr@gmail.com
+- Discord: __ri_._
 <!--
 **ri-ruin/ri-ruin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
