@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Ri
+Student at Eindhoven University of Technology
+Bachelors of Computer Science
 
+I'm currently working on Financial aspects of application of Python.
+I'm currently learning Intermediate Java and Beginners Python.
+If anyone is up to collaborate on projects then contact me.
+
+How to reach me: ri.uni.9.kr@gmail.com
 <!--
 **ri-ruin/ri-ruin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
