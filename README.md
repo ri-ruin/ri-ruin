@@ -8,7 +8,7 @@ If anyone is up to collaborate on projects then contact me.
 
 How to reach me: 
 - Gmail: ri.uni.9.kr@gmail.com
-- Discord: __ri_._
+- Discord: `__ri_._`
 <!--
 **ri-ruin/ri-ruin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
