@@ -1,25 +1,12 @@
 ## Hi there 👋, I'm Ri
-Student at Eindhoven University of Technology
-Bachelors of Computer Science
+Student at [Eindhoven University of Technology](https://www.tue.nl/en/)
 
-I'm currently working on Financial aspects of application of Python.
-I'm currently learning Intermediate Java and Beginners Python.
+[Bachelors of Computer Science](https://www.tue.nl/en/education/bachelor-college/bachelor-computer-science-and-engineering)
+
+I'm currently working on [Financial aspects of application of Python.](https://github.com/Fin-Python/Python)
+I'm also learning Beginner and Intermediate level Java.
 If anyone is up to collaborate on projects then contact me.
 
 How to reach me: 
-- Gmail: ri.uni.9.kr@gmail.com
+- Gmail: [ri.uni.9.kr@gmail.com](mailto:ri.uni.9.kr@gmail.com)
 - Discord: `__ri_._`
-<!--
-**ri-ruin/ri-ruin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
