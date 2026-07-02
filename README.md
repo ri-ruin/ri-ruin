@@ -1,12 +1,51 @@
-## Hi there 👋, I'm Ri
-Student at [Eindhoven University of Technology](https://www.tue.nl/en/)
+# Hi there 👋, I'm Ri
+---
+---
 
-[Bachelors of Computer Science](https://www.tue.nl/en/education/bachelor-college/bachelor-computer-science-and-engineering)
+I'm a Computer Science student at **Eindhoven University of Technology** who enjoys learning about anything and everything in computing. I like understanding how everything around me works from a structured approach through an analytical mindset.
 
-I'm currently working on [Financial aspects of application of Python.](https://github.com/Fin-Python/Python)
-I'm also learning Beginner and Intermediate level Java.
-If anyone is up to collaborate on projects then contact me.
+## 🎓 Education
+---
 
-How to reach me: 
-- Gmail: [ri.uni.9.kr@gmail.com](mailto:ri.uni.9.kr@gmail.com)
-- Discord: `__ri_._`
+* **Bachelor of Computer Science and Engineering**
+* **Eindhoven University of Technology (TU/e)**
+
+## 🌱 Currently Learning
+---
+
+* Linux
+* Git and GitHub workflows
+* Building personal projects
+
+## 🚀 Current Focus
+
+* Completing pending personal projects
+* Exploring Linux and its ecosystem
+* Developing a Family Tree application
+
+## 💻 Languages
+
+* **Java** – Intermediate
+* **Python** – Beginner
+
+## 🛠️ Tools
+
+* Git
+* GitHub
+* Neovim
+
+## 🎯 Interests
+
+* Linux
+* Learning new technologies
+* Reading about new and interesting things.
+
+## 📫 Contact
+
+* **Email:** [ri.uni.9.kr@gmail.com](mailto:ri.uni.9.kr@gmail.com)
+* **Discord:** `__ri_._`
+
+---
+
+> *"I enjoy understanding not just how things work, but why they work."*
+
