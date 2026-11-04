@@ -1,51 +1,20 @@
-# Hi there 👋, I'm Ri
----
----
+# Hi, I'm Ri 👋
 
-I'm a Computer Science student at **Eindhoven University of Technology** who enjoys learning about anything and everything in computing. I like understanding how everything around me works from a structured approach through an analytical mindset.
+Computer Science & Engineering student at **TU/e**.
 
-## 🎓 Education
----
+## Current Status
 
-* **Bachelor of Computer Science and Engineering**
-* **Eindhoven University of Technology (TU/e)**
+- Learning Python through practical projects and experiments
+- Practicing Java and strengthening programming fundamentals
+- Working on personal projects
+- Exploring networking and cybersecurity
 
-## 🌱 Currently Learning
----
+## Languages & Tools
 
-* Linux
-* Git and GitHub workflows
-* Building personal projects
+**Languages:** Python · Java
 
-## 🚀 Current Focus
-
-* Completing pending personal projects
-* Exploring Linux and its ecosystem
-* Developing a Family Tree application
-
-## 💻 Languages
-
-* **Java** – Intermediate
-* **Python** – Beginner
-
-## 🛠️ Tools
-
-* Git
-* GitHub
-* Neovim
-
-## 🎯 Interests
-
-* Linux
-* Learning new technologies
-* Reading about new and interesting things.
-
-## 📫 Contact
-
-* **Email:** [ri.uni.9.kr@gmail.com](mailto:ri.uni.9.kr@gmail.com)
-* **Discord:** `__ri_._`
+**Tools:** Git · GitHub · Neovim
 
 ---
 
-> *"I enjoy understanding not just how things work, but why they work."*
-
+*"Understand not just how things work, but why."*
